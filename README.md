@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello, I'm Krithika! 👋 
 
-<!--
-**krithikakondapalli/krithikakondapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Florida, passionate about building meaningful technology at the intersection of software engineering, AI/ML, and product management.
 
-Here are some ideas to get you started:
+## 🔧 What I've Worked On
+- DoneTogether – A collaborative goal-tracking platform (MERN stack + Clerk) that encourages peer accountability. I built responsive React components, integrated RESTful APIs, and followed agile & CI practices.
+- StudyUp! – An educational mobile app built at SwampHacks 2025 using React Native and Expo. We gamified studying with tilt-based motion detection and smooth multiplayer setup for fast-paced review sessions.
+- Am I Safe? – A web app to visualize 200K+ Gainesville crime data points using Leaflet and JavaScript. Features include interactive maps, 10+ crime filters, and performance comparisons between data structures like Min Heaps and Hash Tables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+**Languages & Technologies:**
+C++, Python, JavaScript, TypeScript, Java, R, ARM Assembly, MATLAB
+
+**Frameworks & Libraries:**
+React, React Native, Node.js, Express.js, MongoDB, Expo
+Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Keras
+
+**Tools & Platforms:**
+VS Code, CLion, PyCharm, Jupyter Notebook, Git & GitHub, GDB, Jira, Figma
+
+## 🎯 What I'm Looking For
+I’m currently seeking internships in SWE, AI/ML, and product management to apply my passion for creating technology that improves lives. 
+
