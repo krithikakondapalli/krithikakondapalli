@@ -1,4 +1,4 @@
-## Hello, I'm Krithika! 👋 
+## 👋Hello, I'm Krithika! 
 
 I'm a Computer Science student at the University of Florida, passionate about building meaningful technology at the intersection of software engineering, AI/ML, and product management.
 
@@ -21,3 +21,6 @@ VS Code, CLion, PyCharm, Jupyter Notebook, Git & GitHub, GDB, Jira, Figma
 ## 🎯 What I'm Looking For
 I’m currently seeking internships in SWE, AI/ML, and product management to apply my passion for creating technology that improves lives. 
 
+## 💬 Let's Connect!
+- Email: kkondapalli@ufl.edu
+- LinkedIn: www.linkedin.com/in/krithika-kondapalli
