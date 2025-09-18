@@ -19,7 +19,7 @@ Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Keras
 VS Code, CLion, PyCharm, Jupyter Notebook, Git & GitHub, GDB, Jira, Figma
 
 ## 🎯 What I'm Looking For
-I’m currently seeking internships in SWE, AI/ML, and product management to apply my passion for creating technology that improves lives. 
+I’m currently seeking internships in SWE, AI/ML, and product management to apply my passion for creating technology that leaves a positive impact.
 
 ## 💬 Let's Connect!
 - Email: kkondapalli@ufl.edu
