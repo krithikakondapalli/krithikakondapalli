@@ -1,6 +1,6 @@
 ## 👋Hello, I'm Krithika! 
 
-I'm a Computer Science student at the University of Florida, passionate about building meaningful technology at the intersection of software engineering, AI/ML, and product management.
+I'm a Computer Science student at the University of Florida, passionate about building meaningful technology utilizing skills across software engineering, AI/ML, and product management.
 
 ## 🔧 What I've Worked On
 - DoneTogether – A collaborative goal-tracking platform (MERN stack + Clerk) that encourages peer accountability. I built responsive React components, integrated RESTful APIs, and followed agile & CI practices.
@@ -9,7 +9,7 @@ I'm a Computer Science student at the University of Florida, passionate about bu
 
 ## 🛠️ Technical Skills
 **Languages & Technologies:**
-C++, Python, JavaScript, TypeScript, Java, R, ARM Assembly, MATLAB
+C++, Python, JavaScript, Java, R
 
 **Frameworks & Libraries:**
 React, React Native, Node.js, Express.js, MongoDB, Expo
